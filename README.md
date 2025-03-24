@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Extract your color
 
 A simple Streamlit app template for you to modify!
 
